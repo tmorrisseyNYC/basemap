@@ -1,0 +1,54 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-7a0bdb0a:154e2f3528e:e55</id>
+  <name>building</name>
+  <nativeName>building</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--6fc0fd27:154de75d01d:-7fea</id>
+  </namespace>
+  <title>building</title>
+  <keywords>
+    <string>building</string>
+    <string>features</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</nativeCRS>
+  <srs>EPSG:2263</srs>
+  <nativeBoundingBox>
+    <minx>913191.9269733203</minx>
+    <maxx>1067668.2168401731</maxx>
+    <miny>120868.72761545195</miny>
+    <maxy>272797.67817827873</maxy>
+    <crs class="projected">EPSG:2263</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-74.25709763036338</minx>
+    <maxx>-73.6981820407108</maxx>
+    <miny>40.498039471770184</miny>
+    <maxy>40.91543747994531</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>REPROJECT_TO_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-7a0bdb0a:154e2f3528e:e54</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>true</circularArcPresent>
+</featureType>

@@ -1,0 +1,15 @@
+<layer>
+  <name>STREET_CENTERLINE_GSV</name>
+  <id>LayerInfoImpl-600cec0d:154e8b9aa16:-3e44</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe3</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-600cec0d:154e8b9aa16:-3e45</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

@@ -1,0 +1,33 @@
+<dataStore>
+  <id>DataStoreInfoImpl--6fc0fd27:154de75d01d:-7fe9</id>
+  <name>2014-planimetric</name>
+  <type>Oracle NG</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--6fc0fd27:154de75d01d:-7feb</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="Evictor run periodicity">300</entry>
+    <entry key="Estimated extends">true</entry>
+    <entry key="Max open prepared statements">50</entry>
+    <entry key="fetch size">1000</entry>
+    <entry key="Expose primary keys">true</entry>
+    <entry key="validate connections">true</entry>
+    <entry key="Connection timeout">20</entry>
+    <entry key="Metadata bbox">false</entry>
+    <entry key="database">giscmnt</entry>
+    <entry key="port">1571</entry>
+    <entry key="passwd">pm2014doitt</entry>
+    <entry key="min connections">1</entry>
+    <entry key="host">mssuvd-giscmnt.nycnet</entry>
+    <entry key="Loose bbox">true</entry>
+    <entry key="dbtype">oracle</entry>
+    <entry key="namespace">http://maps.nyc.gov/planimetric</entry>
+    <entry key="max connections">10</entry>
+    <entry key="Evictor tests per run">3</entry>
+    <entry key="Test while idle">true</entry>
+    <entry key="user">PLANIMETRICS_2014</entry>
+    <entry key="Max connection idle time">300</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>

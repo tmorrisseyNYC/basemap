@@ -1,0 +1,133 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-6e2a7f8d:15502931cb8:-7ff7</id>
+  <name>basemap</name>
+  <mode>SINGLE</mode>
+  <workspace>
+    <id>WorkspaceInfoImpl--6fc0fd27:154de75d01d:-7feb</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-6e2a7f8d:15502931cb8:-7671</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-6e2a7f8d:15502931cb8:-767d</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-7a0bdb0a:154e339f490:e73</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6fc0fd27:154de75d01d:-7fdd</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--1dc218da:154e3f8ce3c:-7a57</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6fc0fd27:154de75d01d:-7fcd</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6fc0fd27:154de75d01d:-7fdb</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6fc0fd27:154de75d01d:-7fd5</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6fc0fd27:154de75d01d:-7fc7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6fc0fd27:154de75d01d:-7fe7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--1787ec36:154e5127863:1d89</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6fc0fd27:154de75d01d:-7fd7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6fc0fd27:154de75d01d:-7fc3</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6928ffb:154e414632c:704c</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--1dc218da:154e3e6ac4a:78a9</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6fc0fd27:154de75d01d:-7fd1</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-117160f0:154e7fd534b:-7d8d</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-77f6ccca:154e5752bc7:5f34</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-7a0bdb0a:154e2f3528e:e56</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--25f750d5:15507b47c23:-7fff</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-6e2a7f8d:15502931cb8:-7687</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-7a0bdb0a:154e339f490:e70</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-7a0bdb0a:154e339f490:e70</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3db3298d:154df311b5e:-3a26</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3db3298d:154df27b0f6:525d</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--1787ec36:154e4fb8b5c:9ef</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--1787ec36:154e4e8c2dd:575d</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--1787ec36:154e4e8c2dd:575d</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--1787ec36:154e4e8c2dd:575d</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--1787ec36:154e533881c:16a</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--1787ec36:154e44285b1:31c4</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-7a0bdb0a:154e3506bbc:192a</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-7a0bdb0a:154e3506bbc:192a</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3db3298d:154df311b5e:-3a26</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-7a0bdb0a:154e2e018ba:-52d7</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-7a0bdb0a:154e2f3528e:e57</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-77f6ccca:154e587c869:-70d9</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-7a0bdb0a:154e2f3528e:e57</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>503506.37979249656</minx>
+    <maxx>1585834.722333163</maxx>
+    <miny>-145358.00220367312</miny>
+    <maxy>433536.2271284461</maxy>
+    <crs class="projected">EPSG:2263</crs>
+  </bounds>
+</layerGroup>

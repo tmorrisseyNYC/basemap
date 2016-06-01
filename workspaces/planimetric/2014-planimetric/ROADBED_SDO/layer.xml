@@ -1,0 +1,15 @@
+<layer>
+  <name>ROADBED_SDO</name>
+  <id>LayerInfoImpl--6fc0fd27:154de75d01d:-7fcd</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3db3298d:154df27b0f6:525d</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6fc0fd27:154de75d01d:-7fce</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

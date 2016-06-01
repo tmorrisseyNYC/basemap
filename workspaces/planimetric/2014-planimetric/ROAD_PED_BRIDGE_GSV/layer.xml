@@ -1,0 +1,15 @@
+<layer>
+  <name>ROAD_PED_BRIDGE_GSV</name>
+  <id>LayerInfoImpl--6928ffb:154e414632c:7053</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-7a0bdb0a:154e3506bbc:192a</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6928ffb:154e414632c:7052</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

@@ -1,0 +1,15 @@
+<layer>
+  <name>MEDIAN_SDO</name>
+  <id>LayerInfoImpl--1787ec36:154e5127863:1d89</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--1787ec36:154e533881c:16a</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--1787ec36:154e5127863:1d88</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

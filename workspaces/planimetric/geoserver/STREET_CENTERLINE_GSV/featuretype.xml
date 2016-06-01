@@ -1,0 +1,93 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-600cec0d:154e8b9aa16:-3e45</id>
+  <name>STREET_CENTERLINE_GSV</name>
+  <nativeName>STREET_CENTERLINE_GSV</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--6fc0fd27:154de75d01d:-7fea</id>
+  </namespace>
+  <title>STREET_CENTERLINE_GSV</title>
+  <keywords>
+    <string>STREET_CENTERLINE_GSV</string>
+    <string>features</string>
+  </keywords>
+  <nativeCRS class="projected">PROJCS[&quot;NAD83 / New York Long Island (ftUS)&quot;, &#xd;
+  GEOGCS[&quot;NAD83&quot;, &#xd;
+    DATUM[&quot;North American Datum 1983&quot;, &#xd;
+      SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], &#xd;
+      TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], &#xd;
+      AUTHORITY[&quot;EPSG&quot;,&quot;6269&quot;]], &#xd;
+    PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xd;
+    UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+    AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+    AXIS[&quot;Geodetic latitude&quot;, NORTH], &#xd;
+    AUTHORITY[&quot;EPSG&quot;,&quot;4269&quot;]], &#xd;
+  PROJECTION[&quot;Lambert_Conformal_Conic_2SP&quot;, AUTHORITY[&quot;EPSG&quot;,&quot;9802&quot;]], &#xd;
+  PARAMETER[&quot;central_meridian&quot;, -74.0], &#xd;
+  PARAMETER[&quot;latitude_of_origin&quot;, 40.166666666666664], &#xd;
+  PARAMETER[&quot;standard_parallel_1&quot;, 41.03333333333333], &#xd;
+  PARAMETER[&quot;false_easting&quot;, 984250.0], &#xd;
+  PARAMETER[&quot;false_northing&quot;, 0.0], &#xd;
+  PARAMETER[&quot;scale_factor&quot;, 1.0], &#xd;
+  PARAMETER[&quot;standard_parallel_2&quot;, 40.666666666666664], &#xd;
+  UNIT[&quot;foot_survey_us&quot;, 0.30480060960121924], &#xd;
+  AXIS[&quot;Easting&quot;, EAST], &#xd;
+  AXIS[&quot;Northing&quot;, NORTH], &#xd;
+  AUTHORITY[&quot;EPSG&quot;,&quot;2263&quot;]]</nativeCRS>
+  <srs>EPSG:2263</srs>
+  <nativeBoundingBox>
+    <minx>913281.479614258</minx>
+    <maxx>1067379.52941895</maxx>
+    <miny>120751.979187012</miny>
+    <maxy>272688.094421387</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-74.25677245654701</minx>
+    <maxx>-73.69922790249744</maxx>
+    <miny>40.497721728644045</miny>
+    <maxy>40.915136777771714</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+    <entry key="JDBC_VIRTUAL_TABLE">
+      <virtualTable>
+        <name>STREET_CENTERLINE_GSV</name>
+        <sql>SELECT &#xd;
+    OBJECTID,&#xd;
+    SHAPE,&#xd;
+    STNAME_LABEL,&#xd;
+    UNISTR(&apos;\2192&apos;) AS ARROW_RIGHT,&#xd;
+    UNISTR(&apos;\2190&apos;) AS ARROW_LEFT,&#xd;
+    UNISTR(&apos;\2194&apos;) AS ARROW_BOTH,&#xd;
+    RW_TYPE,&#xd;
+    TRAFDIR,&#xd;
+    CARTO_DISPLAY_LEVEL&#xd;
+FROM STREET_CENTERLINE&#xd;
+WHERE RW_TYPE IN (5, 3, 2, 1, 4)
+</sql>
+        <escapeSql>false</escapeSql>
+        <geometry>
+          <name>SHAPE</name>
+          <type>LineString</type>
+          <srid>2263</srid>
+        </geometry>
+      </virtualTable>
+    </entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-600cec0d:154e8b9aa16:-43f0</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>true</circularArcPresent>
+</featureType>

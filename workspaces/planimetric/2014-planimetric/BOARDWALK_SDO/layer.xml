@@ -1,0 +1,15 @@
+<layer>
+  <name>BOARDWALK_SDO</name>
+  <id>LayerInfoImpl--6fc0fd27:154de75d01d:-7fe7</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--1787ec36:154e4e8c2dd:575d</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6fc0fd27:154de75d01d:-7fe8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

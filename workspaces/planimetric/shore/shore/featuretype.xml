@@ -1,0 +1,84 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-6e2a7f8d:15502931cb8:-7679</id>
+  <name>shore</name>
+  <nativeName>shore</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--6fc0fd27:154de75d01d:-7fea</id>
+  </namespace>
+  <title>shore</title>
+  <keywords>
+    <string>features</string>
+    <string>shore</string>
+  </keywords>
+  <nativeCRS class="projected">PROJCS[&quot;NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet&quot;, &#xd;
+  GEOGCS[&quot;GCS_North_American_1983&quot;, &#xd;
+    DATUM[&quot;D_North_American_1983&quot;, &#xd;
+      SPHEROID[&quot;GRS_1980&quot;, 6378137.0, 298.257222101]], &#xd;
+    PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+    UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+    AXIS[&quot;Longitude&quot;, EAST], &#xd;
+    AXIS[&quot;Latitude&quot;, NORTH]], &#xd;
+  PROJECTION[&quot;Lambert_Conformal_Conic_2SP&quot;], &#xd;
+  PARAMETER[&quot;central_meridian&quot;, -74.0], &#xd;
+  PARAMETER[&quot;latitude_of_origin&quot;, 40.166666666666664], &#xd;
+  PARAMETER[&quot;standard_parallel_1&quot;, 41.03333333333333], &#xd;
+  PARAMETER[&quot;false_easting&quot;, 984250.0], &#xd;
+  PARAMETER[&quot;false_northing&quot;, 0.0], &#xd;
+  PARAMETER[&quot;scale_factor&quot;, 1.0], &#xd;
+  PARAMETER[&quot;standard_parallel_2&quot;, 40.666666666666664], &#xd;
+  UNIT[&quot;foot_survey_us&quot;, 0.3048006096012192], &#xd;
+  AXIS[&quot;X&quot;, EAST], &#xd;
+  AXIS[&quot;Y&quot;, NORTH]]</nativeCRS>
+  <srs>EPSG:2263</srs>
+  <nativeBoundingBox>
+    <minx>828268.8824890107</minx>
+    <maxx>1585674.7223330883</maxx>
+    <miny>-145198.00220374763</miny>
+    <maxy>433376.227128429</maxy>
+    <crs class="projected">PROJCS[&quot;NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet&quot;, &#xd;
+  GEOGCS[&quot;GCS_North_American_1983&quot;, &#xd;
+    DATUM[&quot;D_North_American_1983&quot;, &#xd;
+      SPHEROID[&quot;GRS_1980&quot;, 6378137.0, 298.257222101]], &#xd;
+    PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+    UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+    AXIS[&quot;Longitude&quot;, EAST], &#xd;
+    AXIS[&quot;Latitude&quot;, NORTH]], &#xd;
+  PROJECTION[&quot;Lambert_Conformal_Conic_2SP&quot;], &#xd;
+  PARAMETER[&quot;central_meridian&quot;, -74.0], &#xd;
+  PARAMETER[&quot;latitude_of_origin&quot;, 40.166666666666664], &#xd;
+  PARAMETER[&quot;standard_parallel_1&quot;, 41.03333333333333], &#xd;
+  PARAMETER[&quot;false_easting&quot;, 984250.0], &#xd;
+  PARAMETER[&quot;false_northing&quot;, 0.0], &#xd;
+  PARAMETER[&quot;scale_factor&quot;, 1.0], &#xd;
+  PARAMETER[&quot;standard_parallel_2&quot;, 40.666666666666664], &#xd;
+  UNIT[&quot;foot_survey_us&quot;, 0.3048006096012192], &#xd;
+  AXIS[&quot;X&quot;, EAST], &#xd;
+  AXIS[&quot;Y&quot;, NORTH]]</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-74.56812241511979</minx>
+    <maxx>-71.8098858230869</maxx>
+    <miny>39.747975285391334</miny>
+    <maxy>41.356101284167735</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-6e2a7f8d:15502931cb8:-767c</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

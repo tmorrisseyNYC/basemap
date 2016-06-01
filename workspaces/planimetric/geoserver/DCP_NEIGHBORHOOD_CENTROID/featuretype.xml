@@ -1,0 +1,46 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--7fd45a53:1550847a997:-7842</id>
+  <name>DCP_NEIGHBORHOOD_CENTROID</name>
+  <nativeName>DCP_NEIGHBORHOOD_CENTROID</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--6fc0fd27:154de75d01d:-7fea</id>
+  </namespace>
+  <title>DCP_NEIGHBORHOOD_CENTROID</title>
+  <keywords>
+    <string>features</string>
+    <string>DCP_NEIGHBORHOOD_CENTROID</string>
+  </keywords>
+  <srs>EPSG:2263</srs>
+  <nativeBoundingBox>
+    <minx>919325.255629465</minx>
+    <maxx>1064321.72708571</maxx>
+    <miny>130814.746645465</miny>
+    <maxy>267014.068830565</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-74.23485043410268</minx>
+    <maxx>-73.71035917703855</maxx>
+    <miny>40.525370155297566</miny>
+    <maxy>40.89956226475211</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-600cec0d:154e8b9aa16:-43f0</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

@@ -1,0 +1,22 @@
+<dataStore>
+  <id>DataStoreInfoImpl-6e2a7f8d:15502931cb8:-7681</id>
+  <name>land</name>
+  <type>Shapefile</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--6fc0fd27:154de75d01d:-7feb</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="charset">ISO-8859-1</entry>
+    <entry key="filetype">shapefile</entry>
+    <entry key="create spatial index">true</entry>
+    <entry key="memory mapped buffer">false</entry>
+    <entry key="timezone">America/New_York</entry>
+    <entry key="enable spatial index">true</entry>
+    <entry key="namespace">http://maps.nyc.gov/planimetric</entry>
+    <entry key="cache and reuse memory maps">true</entry>
+    <entry key="url">file:doitt/land.shp</entry>
+    <entry key="fstype">shape</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>

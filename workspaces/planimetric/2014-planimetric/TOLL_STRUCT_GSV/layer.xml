@@ -1,0 +1,15 @@
+<layer>
+  <name>TOLL_STRUCT_GSV</name>
+  <id>LayerInfoImpl-117160f0:154e7fd534b:-7d8d</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-7a0bdb0a:154e2f3528e:e57</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-117160f0:154e7fd534b:-7d8e</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

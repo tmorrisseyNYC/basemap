@@ -1,0 +1,15 @@
+<layer>
+  <name>RAILROAD_SDO</name>
+  <id>LayerInfoImpl--6fc0fd27:154de75d01d:-7fd3</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3db3298d:154df311b5e:-3a26</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6fc0fd27:154de75d01d:-7fd4</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

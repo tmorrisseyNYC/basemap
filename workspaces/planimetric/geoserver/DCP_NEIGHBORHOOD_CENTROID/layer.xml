@@ -1,0 +1,15 @@
+<layer>
+  <name>DCP_NEIGHBORHOOD_CENTROID</name>
+  <id>LayerInfoImpl--7fd45a53:1550847a997:-7841</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--7fd45a53:1550847a997:-783f</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--7fd45a53:1550847a997:-7842</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

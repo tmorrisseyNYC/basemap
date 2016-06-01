@@ -1,0 +1,15 @@
+<layer>
+  <name>water</name>
+  <id>LayerInfoImpl-6e2a7f8d:15502931cb8:-7671</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--25f750d5:15507b47c23:-7fff</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-6e2a7f8d:15502931cb8:-7672</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

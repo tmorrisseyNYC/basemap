@@ -1,0 +1,85 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--55da1643:155075c38a8:-8000</id>
+  <name>label</name>
+  <mode>SINGLE</mode>
+  <workspace>
+    <id>WorkspaceInfoImpl--6fc0fd27:154de75d01d:-7feb</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--7fd45a53:1550847a997:-7841</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-600cec0d:154e8b9aa16:-3e44</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-600cec0d:154e8b9aa16:-3e44</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-600cec0d:154e8b9aa16:-3e44</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-600cec0d:154e8b9aa16:-3e44</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-600cec0d:154e8b9aa16:-3e44</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-600cec0d:154e8b9aa16:-3e44</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-600cec0d:154e8b9aa16:-3e44</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-600cec0d:154e8b9aa16:-3e44</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-600cec0d:154e8b9aa16:-3e44</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-600cec0d:154e8b9aa16:-3e44</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--7fd45a53:1550847a997:-783f</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c896622:154edacae5f:-271a</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--1e02ca60:154ed65bd28:-3b56</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--1e02ca60:154ed7281c1:78af</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--1e02ca60:154ed905177:24a9</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--631878f2:154ee3dd29b:3f9c</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c896622:154ee0395f6:6c10</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--631878f2:154ee2a6e8e:3123</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--631878f2:154ee3dd29b:3f9d</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--631878f2:154ee2a6e8e:3121</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--631878f2:154ee2a6e8e:3122</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>913281.479614258</minx>
+    <maxx>1067379.52941895</maxx>
+    <miny>120751.979187012</miny>
+    <maxy>272688.094421387</maxy>
+    <crs class="projected">EPSG:2263</crs>
+  </bounds>
+</layerGroup>

@@ -1,0 +1,15 @@
+<layer>
+  <name>MISC_STRUCTURE_POLY_SDO</name>
+  <id>LayerInfoImpl--6fc0fd27:154de75d01d:-7fdf</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--6fc0fd27:154de75d01d:-8000</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6fc0fd27:154de75d01d:-7fe0</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

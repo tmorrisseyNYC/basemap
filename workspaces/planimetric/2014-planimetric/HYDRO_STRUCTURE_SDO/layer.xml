@@ -1,0 +1,15 @@
+<layer>
+  <name>HYDRO_STRUCTURE_SDO</name>
+  <id>LayerInfoImpl-117160f0:154e804c7bb:6bd</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-117160f0:154e809beb2:67c1</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-117160f0:154e804c7bb:6bc</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
